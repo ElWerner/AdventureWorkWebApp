@@ -1,0 +1,16 @@
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.deps.json
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.runtimeconfig.json
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.runtimeconfig.dev.json
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.dll
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.csprojAssemblyReference.cache
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.csproj.CoreCompileInputs.cache
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.RazorAssemblyInfo.cache
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.RazorAssemblyInfo.cs
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.AssemblyInfoInputs.cache
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.AssemblyInfo.cs
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.RazorTargetAssemblyInfo.cache
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.pdb
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.dll
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.pdb
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\bin\Debug\netcoreapp2.1\AdventureWorkWebApp.xml
+E:\epam-lab\DevOps\AdventureWorkWebApp\AdventureWorkWebApp\obj\Debug\netcoreapp2.1\AdventureWorkWebApp.xml

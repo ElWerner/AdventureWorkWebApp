@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdventureWorkWebApp</name>
+    </assembly>
+    <members>
+        <member name="M:AdventureWorkWebApp.Controllers.AdwentureWorkController.AddDimCustomer(AdventureWorkWebApp.Models.DimAccount)">
+             <remarks>
+             Sample request:
+            
+                 POST /DimAccount
+                  {
+                      "parentAccountKey": null,
+                      "accountCodeAlternateKey": null,
+                      "parentAccountCodeAlternateKey": null,
+                      "accountDescription": "string",
+                      "accountType": "string",
+                      "operator": "string",
+                      "customMembers": "string",
+                      "valueType": "string",
+                      "customMemberOptions": "string"
+                  }
+            
+             </remarks>
+        </member>
+    </members>
+</doc>
